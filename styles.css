@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   background-color: hsl(225, 100%, 94%);
+   font-family: 'Outfit', sans-serif;
+   font-weight: 400, 700;
+   
+}
+.main{
+    margin-top: 150px;
+    margin-left: 480px;
+}
+
+#outbox {
+    background-color: hsl(0, 0%, 100%);
+    width: 330px;
+    height: 530px;
+    margin: 30px 30px 30px 30px;
+    border: 1px solid;
+    border-radius: 27px;
+    box-shadow:  5px 5px 5px 5px #D3D3D3;
+
+    
+}
+.QR-code{
+    width: 291px;
+    margin: auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius:  32px;
+    margin-left: 3px;
+    margin-top: 5px;
+   
+  
+
+}
+
+.content-1{
+    text-align: center;
+    margin-left: 4px;
+    padding-top: 10px;
+    color: hsl(218, 44%, 22%);
+    font-size: 1.2rem;
+   
+}
+.content-2{
+    padding-top: 22px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 1em;
+    color: hsl(220, 15%, 55%);
+    opacity: 0.8;
+}
